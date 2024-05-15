@@ -1,0 +1,13 @@
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\Projeto_Web-Lh_Pets_Alunos (2).exe
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\appsettings.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\Projeto_Web-Lh_Pets_Alunos (2).dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\Projeto_Web-Lh_Pets_Alunos (2).deps.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\Projeto_Web-Lh_Pets_Alunos (2).runtimeconfig.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\Projeto_Web-Lh_Pets_Alunos (2).pdb
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\System.Data.SqlClient.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

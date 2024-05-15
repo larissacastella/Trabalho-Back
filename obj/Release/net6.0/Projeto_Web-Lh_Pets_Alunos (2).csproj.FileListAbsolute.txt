@@ -1,0 +1,29 @@
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\appsettings.Development.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\appsettings.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).staticwebassets.runtime.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).exe
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).deps.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).runtimeconfig.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).pdb
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).csproj.AssemblyReference.cache
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).AssemblyInfoInputs.cache
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).AssemblyInfo.cs
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).csproj.CoreCompileInputs.cache
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\scopedcss\bundle\Projeto_Web-Lh_Pets_Alunos (2).styles.css
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).csproj.CopyComplete
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\refint\Projeto_Web-Lh_Pets_Alunos (2).dll
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).pdb
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\Projeto_Web-Lh_Pets_Alunos (2).genruntimeconfig.cache
+C:\Users\caste\Downloads\Projeto_Web-Lh_Pets_Alunos (2)\obj\Release\net6.0\ref\Projeto_Web-Lh_Pets_Alunos (2).dll
